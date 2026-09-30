@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="33%">
       <a href="https://knightpuzzle.ihtfy.com">
-        <img src="assets/knightpuzzle.png" alt="Raven" width="260"><br>
+        <img src="assets/knightpuzzle.png" alt="KnightPuzzle" width="260"><br>
         <b>Knight Puzzle</b>
       </a><br>
       A chess puzzle with just a Knight and a Queen
