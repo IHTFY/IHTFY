@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://ihtfy.com"><img src="https://img.shields.io/badge/Website-ihtfy.com-2ea44f?style=for-the-badge" alt="Website"></a>
   <a href="https://empire.ihtfy.com"><img src="https://img.shields.io/badge/Play-Empire-blue?style=for-the-badge" alt="Play Empire"></a>
-  <a href="https://iq.ihtfy.com"><img src="https://img.shields.io/badge/Play-Raven-purple?style=for-the-badge" alt="Play Raven"></a>
+  <a href="https://knightpuzzle.ihtfy.com"><img src="https://img.shields.io/badge/Play-Knight-Puzzle-purple?style=for-the-badge" alt="Play Knight Puzzle"></a>
 </p>
 
 ## Play something
@@ -22,11 +22,11 @@
       Party game with an automated gamemaster
     </td>
     <td align="center" width="33%">
-      <a href="https://iq.ihtfy.com">
-        <img src="assets/raven.png" alt="Raven" width="260"><br>
-        <b>Raven</b>
+      <a href="https://knightpuzzle.ihtfy.com">
+        <img src="assets/knightpuzzle.png" alt="Raven" width="260"><br>
+        <b>Knight Puzzle</b>
       </a><br>
-      Randomly generated progressive matrices
+      A chess puzzle with just a Knight and a Queen
     </td>
     <td align="center" width="33%">
       <a href="https://bolt.ihtfy.com">
