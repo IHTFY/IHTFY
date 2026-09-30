@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://ihtfy.com"><img src="https://img.shields.io/badge/Website-ihtfy.com-2ea44f?style=for-the-badge" alt="Website"></a>
   <a href="https://empire.ihtfy.com"><img src="https://img.shields.io/badge/Play-Empire-blue?style=for-the-badge" alt="Play Empire"></a>
-  <a href="https://knightpuzzle.ihtfy.com"><img src="https://img.shields.io/badge/Play-Knight-Puzzle-purple?style=for-the-badge" alt="Play Knight Puzzle"></a>
+  <a href="https://knightpuzzle.ihtfy.com"><img src="https://img.shields.io/badge/Play-Knight_Puzzle-purple?style=for-the-badge" alt="Play Knight Puzzle"></a>
 </p>
 
 ## Play something
@@ -23,10 +23,10 @@
     </td>
     <td align="center" width="33%">
       <a href="https://knightpuzzle.ihtfy.com">
-        <img src="assets/knightpuzzle.png" alt="KnightPuzzle" width="260"><br>
+        <img src="assets/knight-puzzle.png" alt="Knight Puzzle" width="260"><br>
         <b>Knight Puzzle</b>
       </a><br>
-      A chess puzzle with just a Knight and a Queen
+      Chess puzzle with only a knight and queen
     </td>
     <td align="center" width="33%">
       <a href="https://bolt.ihtfy.com">
