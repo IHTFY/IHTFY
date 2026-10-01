@@ -10,7 +10,7 @@
   <a href="https://knightpuzzle.ihtfy.com"><img src="https://img.shields.io/badge/Play-Knight_Puzzle-purple?style=for-the-badge" alt="Play Knight Puzzle"></a>
 </p>
 
-## Play something
+## A few games and visualizations
 
 <table>
   <tr>
