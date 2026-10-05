@@ -46,11 +46,11 @@
       Web version of the Illusion card game
     </td>
     <td align="center" width="33%">
-      <a href="https://vortex.ihtfy.com">
-        <img src="assets/vortex.png" alt="Vortex" width="260"><br>
-        <b>Vortex</b>
+      <a href="https://domination.ihtfy.com">
+        <img src="assets/domination.png" alt="Domination" width="260"><br>
+        <b>Domination</b>
       </a><br>
-      A modular times table
+      The 8 Queens Puzzle and all of its relatives
     </td>
   </tr>
 </table>
